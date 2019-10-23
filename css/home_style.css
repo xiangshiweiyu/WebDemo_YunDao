@@ -320,6 +320,7 @@ li {
 .collaborate_bd {
     width: 1048px;
     height: 240px;
+    margin-top: 80px;
     overflow: hidden;
 }
 
@@ -334,5 +335,12 @@ li {
     border-right: 1px dashed #cccccc;
     border-bottom: 1px dashed #cccccc;
 }
+
+.collaborate_bd li img {
+    margin-left: 50px;
+    margin-top: 15px;
+}
+
+
 
 /*合作媒体*/
