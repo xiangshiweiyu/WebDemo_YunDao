@@ -19,7 +19,7 @@
 
 body {
     background-color: #fafafa;
-    height: 3000px;
+    /*height: 3000px;*/
 }
 
 li {
@@ -341,6 +341,40 @@ li {
     margin-top: 15px;
 }
 
-
-
 /*合作媒体*/
+
+/*页面底部*/
+.bottom {
+    height: 165px;
+    margin-top: 100px;
+    background-color: #333333;
+    overflow: hidden;
+}
+
+.bottom_content {
+    text-align: center;
+    margin-top: 50px;
+    color: #ffffff;
+}
+
+.bottom_content a {
+    color: #ffffff;
+    text-decoration: none;
+    font-size: 14px;
+}
+
+.bottom_content a:hover {
+    color: #2288f6;
+    text-decoration: underline;
+    font-size: 14px;
+}
+
+.bottom p {
+    color: #888888;
+    font-size: 14px;
+    text-align: center;
+    margin-top: 20px;
+
+}
+
+/*页面底部*/

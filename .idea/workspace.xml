@@ -2,9 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ca3a37db-d340-40cb-8e9e-97b22796a71c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/image/tao_b_c.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/image/tao_b_h.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/home_style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/home_style.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/html/TestDemo.html" beforeDir="false" afterPath="$PROJECT_DIR$/html/TestDemo.html" afterDir="false" />
@@ -79,8 +76,16 @@
       <workItem from="1571283746062" duration="9335000" />
       <workItem from="1571361726429" duration="11210000" />
       <workItem from="1571707877714" duration="18086000" />
-      <workItem from="1571793066559" duration="3244000" />
+      <workItem from="1571793066559" duration="5966000" />
     </task>
+    <task id="LOCAL-00001" summary="添加合作媒体。">
+      <created>1571797742088</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1571797742089</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -98,5 +103,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="添加合作媒体。" />
+    <option name="LAST_COMMIT_MESSAGE" value="添加合作媒体。" />
   </component>
 </project>
